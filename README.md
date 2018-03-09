@@ -22,6 +22,7 @@
 
 
 4. **Tutoriais**
+
 <ul>
   <li>DigitalWrite </li>
   <li>DigitalRead </li>
@@ -35,12 +36,14 @@
 
 
 5. **Dicas e Truques**
+
 <ul> 
   <li> Criando uma biblioteca </li>
   <li> Fritzing </li>
 
 
 6. **Exemplos de projetos**
+
 <ul>
   <li>Pisca LED</li>
   <li>Acenda e Apague um LED gradualmente</li>
@@ -60,7 +63,7 @@
 
 8. **Downloads**
 
-9.**FAQ**
+9. **FAQ**
 
 
 
